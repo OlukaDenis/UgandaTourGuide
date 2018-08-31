@@ -1,0 +1,50 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Base.Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <!--Style for the tablayout-->
+    <style name="MyCustomTabLayout">
+        <item name="tabIndicatorColor">@android:color/white</item>
+        <item name="tabBackground">@color/colorPrimary</item>
+        <item name="tabSelectedTextColor">@android:color/white</item>
+        <item name="tabTextAppearance">@style/MyCustomTextAppearance</item>
+    </style>
+
+    <!--Theme style for tablayout text-->
+    <style name="MyCustomTextAppearance">
+        <item name="android:textSize">@dimen/text_small</item>
+        <item name="android:textColor">#ddd</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textAllCaps">true</item>
+    </style>
+
+    <style name="hotelTitle">
+        <item name="android:textSize">@dimen/text_largest</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:layout_margin">@dimen/padding_smaller</item>
+        <item name="android:textColor">@android:color/black</item>
+    </style>
+
+    <style name="hotelDescription">
+        <item name="android:textSize">@dimen/text_large</item>
+        <item name="android:layout_marginRight">@dimen/padding_smaller</item>
+        <item name="android:layout_marginLeft">@dimen/padding_smaller</item>
+        <item name="android:layout_marginBottom">@dimen/padding_smaller</item>
+    </style>
+
+    <style name="locationAddress">
+        <item name="android:textSize">@dimen/text_large</item>
+        <item name="android:layout_marginRight">@dimen/padding_smaller</item>
+        <item name="android:layout_marginLeft">@dimen/padding_smaller</item>
+        <item name="android:layout_marginBottom">@dimen/padding_smaller</item>
+        <item name="android:drawablePadding">@dimen/padding_smaller</item>
+        <item name="android:gravity">center_vertical</item>
+    </style>
+
+</resources>
