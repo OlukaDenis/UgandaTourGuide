@@ -6,7 +6,7 @@
     <string name="pic_alt">Hotel cover picture</string>
     <string name="univ_pic_alt">University cover picture</string>
 
-    <string name="africana_desc">Hotel Africana is Uganda\'s Premier luxury Hotel. The hotel has over 14 fully furnished well air-conditioned.</string>
+
 
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
@@ -18,9 +18,19 @@
     <string name="victoria_desc">Victoria University was established in 2011 by Edulink Holdings Limited, a private company that invests internationally in tertiary institutions of higher education. From 2011 until late 2012, VUU was affiliated with the University of Buckingham (UB) in the United Kingdom, which awarded the majority of degrees offered at VUU.</string>
     <string name="ndu_desc">Ndejje University was established in 1992 under the name and style of \"The Christian University of East Africa\" under the pioneer-ship and ownership of Sams Kironde Kigozi. In 1994 it was represented in Ontario and Quebec Inter-Faculty agreements with 12 Canadian and 8 American universities by Simon Peter Kabala-Kasirye, a trainee academic registrar</string>
     <string name="muk_desc">Makerere University, Kampala is Uganda\'s largest and third-oldest institution of higher learning, first established as a technical school in 1922. In 1963, it became the University of East Africa, offering courses leading to general degrees from the University of London</string>
-    <string name="fang_desc">We have all chinese dishes that you have ever heard of. Our magnificent restaurant·</string>
     <string name="slau_desc">The University campus is located in Mengo, Rubaga Division, in central Kampala, Uganda\'s largest city and capital. The university campus sits on 11 acres (0.045 km2) of land and is located near Kabaka\'s Lake, in Mengo, close to the main Lubiri (Palace of the Kabaka of Buganda), </string>
 
 
+    <string name="africana_desc">Hotel Africana is Uganda\'s Premier luxury Hotel. The hotel has over 14 fully furnished well air-conditioned.On a leafy property surrounded by shops and restaurants, this elegant hotel"</string>
+    <string name="speke_desc">Warmly decorated, low-key rooms offer free Wi-Fi, flat-screen TVs, and minibars, as well as tea and coffeemaking facilities. Upgraded rooms add living areas, and some have 4-poster beds.
+Breakfast and parking are free, and a relaxed restaurant offers Indian fare.</string>
+    <string name="grand_desc">Hotel Africana is Uganda\'s Premier luxury Hotel. The hotel has over 14 fully furnished well air-conditioned</string>
+    <string name="sheraton_desc">The upscale rooms and suites come with free Wi-Fi, satellite TV and safes. They also include tea and coffeemakers. Room service is available 24/7. Dining options include a gourmet restaurant, an Italian bistro and an eatery with an international menu.</string>
+
+
+    <string name="cafe_desc">Hotel Africana is Uganda\'s Premier luxury Hotel. The hotel has over 14 fully furnished well air-conditioned</string>
+    <string name="biryani_desc">There is a lot of India restaurants in kampala, but we are the best in terms of Biryani. Enjoy the best food at Biryani house which specifically located in Kampala.</string>
+    <string name="spur_desc">They have great cocktails and snacks.  The ambience is also good and the waiters and waitresses are very polite.</string>
+    <string name="fang_desc">We have all chinese dishes that you have ever heard of. Our magnificent restaurant·</string>
 
 </resources>
