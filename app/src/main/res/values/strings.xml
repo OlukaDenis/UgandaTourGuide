@@ -2,10 +2,10 @@
     <string name="app_name">UgandaTourGuide</string>
     <string name="category_hotel">Hotels</string>
     <string name="category_university">Universities</string>
-    <string name="category_restaurants">Restaurants</string>]
+    <string name="category_restaurants">Restaurants</string>
+    <string name="category_parks">Parks</string>
     <string name="pic_alt">Hotel cover picture</string>
     <string name="univ_pic_alt">University cover picture</string>
-
 
 
     <!-- TODO: Remove or change this placeholder text -->
@@ -33,4 +33,6 @@ Breakfast and parking are free, and a relaxed restaurant offers Indian fare.</st
     <string name="spur_desc">They have great cocktails and snacks.  The ambience is also good and the waiters and waitresses are very polite.</string>
     <string name="fang_desc">We have all chinese dishes that you have ever heard of. Our magnificent restaurant·</string>
 
+    <string name="crystal_desc">Crystal Gardens is established on three acres  including a beautifully landscaped garden with ample secure parking. The venue is very popular for wedding receptions, parties, meetings and photo-shoots. Events packages, including tents, chairs, tables, decorations and catering services are always available on request.</string>
+    <string name="centenary_desc">Centenary Park is next to Lugogo Channel and is located in Kampala District, Central Region, Uganda. Centenary Park has a length of 0.96 kilometres.</string>
 </resources>

@@ -11,9 +11,8 @@ import android.widget.TextView;
 
 import com.mcdenny.ugandatourguide.R;
 import com.mcdenny.ugandatourguide.adapter.UniversityAdapter;
-import com.mcdenny.ugandatourguide.adapter.WordAdapter;
 import com.mcdenny.ugandatourguide.model.University;
-import com.mcdenny.ugandatourguide.model.Word;
+
 
 import java.util.ArrayList;
 

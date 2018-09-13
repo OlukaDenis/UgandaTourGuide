@@ -8,6 +8,7 @@ import android.support.v4.app.FragmentPagerAdapter;
 
 import com.mcdenny.ugandatourguide.R;
 import com.mcdenny.ugandatourguide.ui.HotelFragment;
+import com.mcdenny.ugandatourguide.ui.ParkFragment;
 import com.mcdenny.ugandatourguide.ui.RestaurantFragment;
 import com.mcdenny.ugandatourguide.ui.UniversityFragment;
 
@@ -26,6 +27,9 @@ public class TourFragmentAdapter extends FragmentPagerAdapter {
         else if (position == 1){
             return new UniversityFragment();
         }
+        else if (position == 2){
+            return new ParkFragment();
+        }
         else{
             return new RestaurantFragment();
         }
@@ -33,7 +37,7 @@ public class TourFragmentAdapter extends FragmentPagerAdapter {
 
     @Override
     public int getCount() {
-        return 3;
+        return 4;
     }
 
     @Nullable
@@ -44,6 +48,9 @@ public class TourFragmentAdapter extends FragmentPagerAdapter {
         }
         else if (position == 1){
             return context.getString(R.string.category_university);
+        }
+        else if (position == 2){
+            return context.getString(R.string.category_parks);
         }
         else  {
             return context.getString(R.string.category_restaurants);
