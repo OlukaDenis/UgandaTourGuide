@@ -3,11 +3,11 @@ package com.mcdenny.ugandatourguide.ui;
 
 import android.os.Bundle;
 import android.app.Fragment;
+import android.support.annotation.NonNull;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.GridView;
-import android.widget.TextView;
 
 import com.mcdenny.ugandatourguide.R;
 import com.mcdenny.ugandatourguide.adapter.UniversityAdapter;
@@ -33,7 +33,7 @@ public class UniversityFragment extends android.support.v4.app.Fragment {
 
 
     @Override
-    public View onCreateView(LayoutInflater inflater, ViewGroup container,
+    public View onCreateView(@NonNull LayoutInflater inflater, ViewGroup container,
                              Bundle savedInstanceState) {
        View rootView = inflater.inflate(R.layout.grid_view_list, container, false);
 

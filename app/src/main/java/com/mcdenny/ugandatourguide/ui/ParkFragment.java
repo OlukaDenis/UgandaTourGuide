@@ -7,13 +7,10 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.GridView;
-import android.widget.TextView;
 
 import com.mcdenny.ugandatourguide.R;
 import com.mcdenny.ugandatourguide.adapter.ParkAdapter;
-import com.mcdenny.ugandatourguide.adapter.UniversityAdapter;
 import com.mcdenny.ugandatourguide.model.Parks;
-import com.mcdenny.ugandatourguide.model.University;
 
 import java.util.ArrayList;
 
