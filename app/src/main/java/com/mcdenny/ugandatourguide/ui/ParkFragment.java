@@ -40,8 +40,8 @@ public class ParkFragment extends Fragment {
         View rootView = inflater.inflate(R.layout.grid_view_list, container, false);
 
         ArrayList<Parks> parks = new ArrayList<Parks>();
-        parks.add(new Parks( "Centenary Park",getString(R.string.centenary_desc), R.drawable.centeneary));
-        parks.add(new Parks( "Crystal Gardens",getString(R.string.crystal_desc), R.drawable.crystal));
+        parks.add(new Parks( getString(R.string.centenary_name),getString(R.string.centenary_desc), R.drawable.centeneary));
+        parks.add(new Parks( getString(R.string.crystal_name),getString(R.string.crystal_desc), R.drawable.crystal));
 
 
         ParkAdapter parkAdapter = new ParkAdapter(getActivity(), parks);

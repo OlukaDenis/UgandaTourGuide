@@ -14,25 +14,78 @@
 
     <!--Destcriptions-->
     <string name="iuea_desc">International University of East Africa is one of the newest universities in Uganda. Located in Kansanga, off the Kampala-Ggaba Road, in the southern part of the Kampala Metropolitan Area, the campus measures 15 acres (6.1 ha). Once the campus infrastructure is fully installed, the student body is expected to swell to 10,000.</string>
+    <string name="iuea_name">IUEA</string>
+    <string name="iuea_web">"https://www.iuea.ac.ug"</string>
+
     <string name="kyu_desc">Kyambogo University was established in 2003 by the Universities and Other Tertiary Institutions Act 2001 by merging Uganda Polytechnic Kyambogo (UPK), the Institute of Teacher Education, Kyambogo (ITEK), and the Uganda National Institute of Special Education (UNISE)</string>
+    <string name="kyu_name">Kyambogo</string>
+    <string name="kyu_web">"https://www.kyu.ac.ug"</string>
+
+    <string name="victoria_name">Victoria University</string>
+    <string name="victoria_web">"https://www.victoria.ac.ug"</string>
     <string name="victoria_desc">Victoria University was established in 2011 by Edulink Holdings Limited, a private company that invests internationally in tertiary institutions of higher education. From 2011 until late 2012, VUU was affiliated with the University of Buckingham (UB) in the United Kingdom, which awarded the majority of degrees offered at VUU.</string>
+
+    <string name="ndu_name">Ndejje University</string>
+    <string name="ndu_web">"https://www.ndejjeuniversity.ac.ug"</string>
     <string name="ndu_desc">Ndejje University was established in 1992 under the name and style of \"The Christian University of East Africa\" under the pioneer-ship and ownership of Sams Kironde Kigozi. In 1994 it was represented in Ontario and Quebec Inter-Faculty agreements with 12 Canadian and 8 American universities by Simon Peter Kabala-Kasirye, a trainee academic registrar</string>
+
+    <string name="muk_name">Makerere University</string>
+    <string name="muk_web">"https://www.mak.ac.ug"</string>
     <string name="muk_desc">Makerere University, Kampala is Uganda\'s largest and third-oldest institution of higher learning, first established as a technical school in 1922. In 1963, it became the University of East Africa, offering courses leading to general degrees from the University of London</string>
+
+    <string name="slau_name">St Lawrence University</string>
+    <string name="slau_web">"https://www.slau.ac.ug"</string>
     <string name="slau_desc">The University campus is located in Mengo, Rubaga Division, in central Kampala, Uganda\'s largest city and capital. The university campus sits on 11 acres (0.045 km2) of land and is located near Kabaka\'s Lake, in Mengo, close to the main Lubiri (Palace of the Kabaka of Buganda), </string>
 
 
+
+    <!--Africana -->
+    <string name="africana_name">Hotel Africana</string>
     <string name="africana_desc">Hotel Africana is Uganda\'s Premier luxury Hotel. The hotel has over 14 fully furnished well air-conditioned.On a leafy property surrounded by shops and restaurants, this elegant hotel"</string>
+    <string name="africana_address">40, Airtel House, Wampewo Ave, Kampala</string>
+    <string name="africana_tel">041 4777500</string>
+    <string name="africana_web">http://www.hotelafricana.com</string>
+
+
+    <string name="speke_name">Speke Hotel</string>
     <string name="speke_desc">Warmly decorated, low-key rooms offer free Wi-Fi, flat-screen TVs, and minibars, as well as tea and coffeemaking facilities. Upgraded rooms add living areas, and some have 4-poster beds.
 Breakfast and parking are free, and a relaxed restaurant offers Indian fare.</string>
+    <string name="speke_address">Nile Avenue Kimathi Ave, Kampala</string>
+    <string name="speke_tel">041 2592214</string>
+    <string name="speke_web">https://www.spekehotel.com</string>
+
+
+    <string name="grand_name">Grand Imperial Hotel</string>
     <string name="grand_desc">Hotel Africana is Uganda\'s Premier luxury Hotel. The hotel has over 14 fully furnished well air-conditioned</string>
+    <string name="grand_address">Plot 2A/B/P.O.Box 7048 Colville St, Kampala</string>
+    <string name="grand_tel">041 4311048</string>
+    <string name="grand_web">https://www.imperialhotels.co.ug</string>
+
+
+    <string name="sheraton_name">Sheraton Hotel</string>
     <string name="sheraton_desc">The upscale rooms and suites come with free Wi-Fi, satellite TV and safes. They also include tea and coffeemakers. Room service is available 24/7. Dining options include a gourmet restaurant, an Italian bistro and an eatery with an international menu.</string>
+    <string name="sheraton_address">Kintu Road, Kampala</string>
+    <string name="sheraton_tel">031 2309000</string>
+    <string name="sheraton_web">https://www.serenahotels.com/serenakampala</string>
 
 
+
+    <string name="cafe_name">Cafe Javas</string>
     <string name="cafe_desc">Hotel Africana is Uganda\'s Premier luxury Hotel. The hotel has over 14 fully furnished well air-conditioned</string>
+
+    <string name="biryani_name">Biryani House</string>
     <string name="biryani_desc">There is a lot of India restaurants in kampala, but we are the best in terms of Biryani. Enjoy the best food at Biryani house which specifically located in Kampala.</string>
+
+    <string name="spur_name">City Spur</string>
     <string name="spur_desc">They have great cocktails and snacks.  The ambience is also good and the waiters and waitresses are very polite.</string>
+
+    <string name="fang_name">Fang Fang Chinese Restaurant</string>
     <string name="fang_desc">We have all chinese dishes that you have ever heard of. Our magnificent restaurant·</string>
 
+
+    <string name="crystal_name">Crystal Gardens</string>
     <string name="crystal_desc">Crystal Gardens is established on three acres  including a beautifully landscaped garden with ample secure parking. The venue is very popular for wedding receptions, parties, meetings and photo-shoots. Events packages, including tents, chairs, tables, decorations and catering services are always available on request.</string>
+
+    <string name="centenary_name">Centenary Park</string>
     <string name="centenary_desc">Centenary Park is next to Lugogo Channel and is located in Kampala District, Central Region, Uganda. Centenary Park has a length of 0.96 kilometres.</string>
 </resources>

@@ -38,18 +38,18 @@ public class UniversityFragment extends android.support.v4.app.Fragment {
        View rootView = inflater.inflate(R.layout.grid_view_list, container, false);
 
         ArrayList<University> universities = new ArrayList<University>();
-        universities.add(new University( "Ndejje University",getString(R.string.ndu_desc),
-                 "https://www.ndejjeuniversity.ac.ug", R.drawable.ndejje));
-        universities.add(new University( "Makerere University", getString(R.string.muk_desc),
-                "https://www.mak.ac.ug", R.drawable.muk));
-        universities.add(new University( "St Lawrence University",getString(R.string.slau_desc),
-                "https://www.slau.ac.ug", R.drawable.slau));
-        universities.add(new University( "IUEA", getString(R.string.africana_desc),
-                "www.africana.com", R.drawable.iuea));
-        universities.add(new University( "Victoria Univesity",getString(R.string.victoria_desc),
-                "www.africana.com", R.drawable.victoria));
-        universities.add(new University( "Kyambogo University",getString(R.string.kyu_desc),
-                "www.africana.com", R.drawable.kyu));
+        universities.add(new University( getString(R.string.ndu_name),getString(R.string.ndu_desc),
+                 getString(R.string.ndu_web), R.drawable.ndejje));
+        universities.add(new University( getString(R.string.muk_name), getString(R.string.muk_desc),
+                getString(R.string.muk_web), R.drawable.muk));
+        universities.add(new University( getString(R.string.slau_name),getString(R.string.slau_desc),
+                getString(R.string.slau_web), R.drawable.slau));
+        universities.add(new University( getString(R.string.iuea_name), getString(R.string.africana_desc),
+                getString(R.string.iuea_web), R.drawable.iuea));
+        universities.add(new University( getString(R.string.victoria_name),getString(R.string.victoria_desc),
+                getString(R.string.victoria_web), R.drawable.victoria));
+        universities.add(new University( getString(R.string.kyu_name),getString(R.string.kyu_desc),
+                getString(R.string.kyu_web), R.drawable.kyu));
 
 
         UniversityAdapter universityAdapter = new UniversityAdapter(getActivity(), universities);

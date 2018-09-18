@@ -37,18 +37,18 @@ public class RestaurantFragment extends android.support.v4.app.Fragment {
        View rootView = inflater.inflate(R.layout.grid_view_list, container, false);
 
         ArrayList<Word> words = new ArrayList<Word>();
-        words.add(new Word( "Cafe Javas",getString(R.string.cafe_desc),
-                "Kampala Boulevard, Kampala Road","039 2177284",
-                "https://cafejavas.co.ug", R.drawable.cafejavas));
-        words.add(new Word( "Biryani House",getString(R.string.biryani_desc),
-                "John Babiha (Acacia) Ave, Kampala", " 0758 935839",
-                "www.africana.com", R.drawable.biryani_house));
-        words.add(new Word( "Silver City Spur",getString(R.string.spur_desc),
-                "Garden City Shopping Centre, Yusuf Lule Rd, Kampala", "041 4563500",
-                "https://www.spurinternational.com/Uganda", R.drawable.city_spur));
-        words.add(new Word( "Fang Fang Chinese Restaurant",getString(R.string.fang_desc),
-                "Plot 1, Conville Street, Kampala 6323","0773047940",
-                "http://fangfang.co.ug", R.drawable.fangfang));
+        words.add(new Word( getString(R.string.cafe_name),getString(R.string.cafe_desc),
+                getString(R.string.africana_address),getString(R.string.africana_tel),
+                getString(R.string.africana_web), R.drawable.cafejavas));
+        words.add(new Word( getString(R.string.biryani_name),getString(R.string.biryani_desc),
+                getString(R.string.sheraton_address),getString(R.string.sheraton_tel),
+                getString(R.string.sheraton_web), R.drawable.biryani_house));
+        words.add(new Word( getString(R.string.spur_name),getString(R.string.spur_desc),
+                getString(R.string.speke_address), getString(R.string.speke_tel),
+                getString(R.string.speke_web), R.drawable.city_spur));
+        words.add(new Word( getString(R.string.fang_name),getString(R.string.fang_desc),
+                getString(R.string.grand_address),getString(R.string.grand_tel),
+                getString(R.string.grand_web), R.drawable.fangfang));
 
         WordAdapter wordAdapter = new WordAdapter(getActivity(), words);
         GridView gridView = (GridView) rootView.findViewById(R.id.list);
